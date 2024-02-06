@@ -3,4 +3,4 @@
 Hier liegt mein Bash-Skript. 
 
 - Autorin: Larissa Will
--Datum: 2024-06-02
+- Datum: 2024-06-02
